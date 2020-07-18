@@ -22,6 +22,12 @@ h2
     text-align: center;
 }
 
+h3
+{
+    text-shadow: 1px 1px 2px white, 0 0 3px aquamarine, 0 0 5px white;
+    text-align: center;
+}
+
 p
 {
     text-align: center;
